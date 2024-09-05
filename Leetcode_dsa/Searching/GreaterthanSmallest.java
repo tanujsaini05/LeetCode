@@ -1,5 +1,5 @@
 package Searching;
-
+//😁
 public class GreaterthanSmallest {
     public static void main(String[] args) {
         char[] letters = {'c', 'f', 'j'}; // Example array
