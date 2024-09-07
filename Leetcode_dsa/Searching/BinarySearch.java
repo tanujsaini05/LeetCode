@@ -1,5 +1,6 @@
 package Searching;
 import java.util.Scanner;
+//
 
 public class BinarySearch {
     public static int search(int[] nums, int target) {
